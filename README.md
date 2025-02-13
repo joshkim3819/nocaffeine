@@ -1,4 +1,4 @@
-# nocaffeine
+# nocaffeine.py
 
 The background for this project requires the knowledge that I was a student athlete during my undergraduate years. As a swimmer, we had 5am morning practices twice a week. This lead to my caffeine addiction. It got really bad, so I decided to create this program
 
