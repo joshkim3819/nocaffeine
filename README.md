@@ -5,3 +5,8 @@ The background for this project requires the knowledge that I was a student athl
 nocaffeine.py is a program that used my school computer's camera to count how many sips of coffee I took during a study session.
 
 This was my first ever python coding project, so I used a lot of articles to help me understand functionality.
+
+# How to use
+1. Navigate to nocaffeine.py
+2. run file
+3. CLICK "Q" ON KEYBOARD TO EXIT PROGRAM
